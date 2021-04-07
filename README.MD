@@ -6,7 +6,9 @@ This project goal is to create a random generated password that contains all of 
 
 ## Usage
 
-Please follow the link below
+If you want to use this application, please follow the link below. To start it please click on the red 'Generate!' button.
+
+![screenshot](/assets/images/screenshot.png)
 
 https://gonzalezg97.github.io/homework-wk3-PasswordGenerator/index.html
 
